@@ -1,12 +1,3 @@
----
-title: Satellite Image Classifier
-emoji: 🛰️
-colorFrom: blue
-colorTo: green
-sdk: gradio
-python_version: 3.11
----
-
 # 🛰️ Satellite Image Classification - FastAI + Gradio + Hugging Face
 
 This repository contains a deep learning project developed with **FastAI** to classify satellite images. A model has been trained using the EuroSAT dataset to classify 10 different land types (e.g., forest, agricultural area, industrial area, residential area).
