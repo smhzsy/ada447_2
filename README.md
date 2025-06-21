@@ -36,37 +36,6 @@ proje/
 └── README.md                    # You're here!
 ```
 
----
-
-## ⚙️ How to Run Locally
-
-1.  Clone the repository:
-
-    ```bash
-    git clone [REPO_URL]
-    cd proje
-    ```
-
-2.  (Optional) Create and activate a virtual environment:
-
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
-
-3.  Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4.  Run the app:
-
-    ```bash
-    python app.py
-    ```
-
-    Then open your browser at `http://localhost:7860/`.
 
 ---
 
